@@ -1,2 +1,0 @@
-#/bin/sh
-g++ main.cpp -o main.exe -std=c++11 -Wall -IOpenGL/include -IGLUT/include -LOpenGL/lib -LGLUT/lib -lGLU -lGL -lglut
