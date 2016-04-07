@@ -2,7 +2,7 @@
 cat readme >  README.md
 cat installations >> README.md
 git init
-git add README.md OpenGL/* OpenGL1/*
+git add .
 git commit -m "first commit"
-git remote add origin https://github.com/Alex-Tsvetanov/All-triangulations-of-polygon.git
+git remote add origin https://github.com/Alex-Tsvetanov/Triangulation.git
 git push -u origin master
